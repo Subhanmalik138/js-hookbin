@@ -1,0 +1,4 @@
+node_modules/
+.hookbin/
+*.log
+.DS_Store
